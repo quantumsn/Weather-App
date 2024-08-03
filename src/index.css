@@ -1,0 +1,15 @@
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: #ffffffde;
+  background-image: url("./assets/bgImg.jpg");
+  background-size: cover;
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.8em;
+  line-height: 1.1;
+  font-weight: 700;
+}

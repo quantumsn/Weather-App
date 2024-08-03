@@ -1,0 +1,15 @@
+.weather-app {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width : 800px) {
+    .weather-app {
+        flex-wrap: wrap;
+        gap: 4rem;
+        margin-bottom: 1rem;
+    }
+}
