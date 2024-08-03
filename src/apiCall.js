@@ -1,4 +1,4 @@
-let URL = "http://api.openweathermap.org/data/2.5/weather?";
+let URL = "https://api.openweathermap.org/data/2.5/weather?";
 let API_KEY = "20659545a3c5b5a4a318120f9ef993d6";
 
 export async function getWeatherReport(city) {
